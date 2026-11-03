@@ -1,0 +1,5 @@
+lapzoneweb-FE/node_modules/
+lapzoneweb-FE/dist/
+lapzoneweb-BE/target/
+.vscode/
+*.log
